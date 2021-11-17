@@ -1,0 +1,16 @@
+3
+Поэт
+poet
+1923-1924
+1
+sadasd
+Романтист
+newFIO
+1999-2001
+0
+new biography
+Поэт
+FIO
+1923-1958
+1
+asfd

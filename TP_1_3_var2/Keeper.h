@@ -1,5 +1,5 @@
 #pragma once
-#include "Base.h"
+#include "fabric.h"
 
 class Keeper
 {
@@ -18,6 +18,7 @@ public:
 	void inputFromFile();
 	void printToFile();
 	void printToConsole();
+	void sort();
 
 	int getSize() { return size; }
 };
